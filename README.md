@@ -16,6 +16,17 @@ The data contains 5110 observations with 12 attributes
 
 Each row in the data set provides relevant information about the patient
 
+- **gender :** "Male", "Female" or "Other"
+- **age :** age of the patient
+- **hypertension :** 0: if the patient doesn't have hypertension 1: if the patient has hypertension
+- **heart disease :** 0: if the patient doesn't have any heart diseases 1: if the patient has a heart disease
+- **ever_married :** "No" or "Yes"
+- **Residence_type :** "Rular" or "Urban"
+- **avg_glucose_level :** average glucose level in blood
+- **bmi :** body mass index
+- **smoking_status :** "formerly smoked", "never smoked", "smokes" or "unkown"
+- **stroke :**  1 if the patient had a stroke or 0 if not
+
 ## Exploraratry Data Analysis
 Data Pre-Processing
 
