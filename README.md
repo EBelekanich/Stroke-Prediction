@@ -27,7 +27,7 @@ Each row in the data set provides relevant information about the patient
 - **smoking_status :** "formerly smoked", "never smoked", "smokes" or "unkown"
 - **stroke :**  1 if the patient had a stroke or 0 if not
 
-## Exploraratry Data Analysis
+## Exploratory Data Analysis
 Data Pre-Processing
 
 - Obtaining Statistics
